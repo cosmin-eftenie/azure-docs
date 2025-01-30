@@ -5,3 +5,4 @@ another test
 local test
 local test 2
 locat test 3
+local test 4
