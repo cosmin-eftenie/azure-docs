@@ -4,3 +4,4 @@ this is a test
 another test
 local test
 local test 2
+locat test 3
