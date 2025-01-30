@@ -9,3 +9,4 @@ local test 4
 local test 5
 local test 6
 local test 7
+local test 8
